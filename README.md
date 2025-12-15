@@ -1189,3 +1189,33 @@ nn.train(input, target, 2000);
 -  Documentación de funciones principales
 
 - Scripts de compilación automática
+
+
+##  Autor
+
+**Carlos Alberto Oviedo Machado, Luiyi David Brito Palmezano e Ismael David Perez Cudriz**
+- Universidad: Univsidad Nacional de Colombia
+- Curso: Programación Avanzada
+- Fecha: 14/12/2025
+
+---
+
+##  Licencia
+
+Este proyecto es de uso académico y está disponible bajo la licencia MIT.
+
+---
+
+##  Contacto
+
+Si tienes preguntas o sugerencias sobre este proyecto:
+- Email: caoviedom@unal.edu.co, lbritop@unal.edu.co, Isperezc@unal.edu.co
+- GitHub:caoviedom(https://github.com/caoviedom)
+
+---
+
+##  Agradecimientos
+
+- Profesor del curso de Programación Avanzada Mauro Alonso Baquero Suarez
+- Comunidad de Stack Overflow
+- Documentación oficial de C++
